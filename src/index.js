@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 import {Button} from 'antd-mobile';
 
 ReactDOM.render(
-  <Button type='primary'>111按钮</Button>,
+  <Button type='primary'>222按钮</Button>,
   document.getElementById('root'));
 
